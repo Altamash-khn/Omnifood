@@ -30,6 +30,22 @@ Together, these skills highlight a strong grasp of **front-end development**, **
 
 ---
 
+## Project Highlights
+
+- Fully responsive and mobile-first design.
+- Clean, modern, and intuitive interface.
+- Organized folder structure separating HTML, CSS, and JS files.
+- Deployed on **Vercel** for fast and reliable hosting.
+- Built purely with **HTML**, **CSS**, and **JavaScript** — no frameworks.
+
+---
+
+## Folder Strcuture
+
+<img src="/img/FolderStrcuture.png" alt="folder structure image">
+
+---
+
 ## Installation & Setup
 
 To run this project locally:
@@ -45,11 +61,3 @@ To run this project locally:
 3. Open `index.html` in your preferred browser or use **Live Server** in VS Code for real-time preview.
 
 ---
-
-## Project Highlights
-
-- Fully responsive and mobile-first design.
-- Clean, modern, and intuitive interface.
-- Organized folder structure separating HTML, CSS, and JS files.
-- Deployed on **Vercel** for fast and reliable hosting.
-- Built purely with **HTML**, **CSS**, and **JavaScript** — no frameworks.
